@@ -4,11 +4,11 @@
 	<groupId>com.ibm.gbsc</groupId>
 	<artifactId>gbsc-parent</artifactId>
 	<packaging>pom</packaging>
-	<version>1.0.6</version>
-	<name>gbsc-parent</name>
+	<version>1.0.6-SNAPSHOT</version>
+	<name>risk-parent</name>
 
 	<organization>
-		<name>ibm gbsc team</name>
+		<name>ibm gbsc finance risk</name>
 		<url>http://risk.gbsc.ibm.com/</url>
 	</organization>
 	<properties>
@@ -882,8 +882,7 @@
 	<scm>
 		<url>https://github.com/johnny2002/gbsc-parent.git</url>
 		<connection>scm:git:https://github.com/johnny2002/gbsc-parent.git</connection>
-	  <tag>gbsc-parent-1.0.6</tag>
-  </scm>
+	</scm>
 	<distributionManagement>
 		<repository>
 			<id>gbsc-releases</id>
